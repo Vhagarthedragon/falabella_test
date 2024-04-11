@@ -71,3 +71,5 @@ SELECT
 ### Prueba de Desarrollo
 - Por medio de Visual Basic o Python (preferiblemente). Generar un pequeño programa que permita automatizar el cruce de la información de los dos archivos de Excel adjuntos. Una vez se realice el cruce, debe permitir realizar la descarga del archivo final. Tener en cuenta que un archivo contiene información general y otro las notas asociadas.
 Plus: Ya sea en el archivo descargado o en la interfaz del programa desarrollado, mostrar un pequeño gráfico o tabla dinámica, con la información que considere relevante para dar una conclusión de los datos.
+
+-SOLUCION EN EL ARCHIVO FALABELLA_TEST.PY, TAMBIEN DEJE ESTE REPOSITORIO DOCKERISADO PARA PODER CORRER FACILMENTE.
