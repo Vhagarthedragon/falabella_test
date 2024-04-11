@@ -1,0 +1,1001 @@
+id;gender;parental level of education;lunch
+1;female;bachelor's degree;standard
+2;female;some college;standard
+3;female;master's degree;standard
+4;male;associate's degree;free/reduced
+5;male;some college;standard
+6;female;associate's degree;standard
+7;female;some college;standard
+8;male;some college;free/reduced
+9;male;high school;free/reduced
+10;female;high school;free/reduced
+11;male;associate's degree;standard
+12;male;associate's degree;standard
+13;female;high school;standard
+14;male;some college;standard
+15;female;master's degree;standard
+16;female;some high school;standard
+17;male;high school;standard
+18;female;some high school;free/reduced
+19;male;master's degree;free/reduced
+20;female;associate's degree;free/reduced
+21;male;high school;standard
+22;female;some college;free/reduced
+23;male;some college;standard
+24;female;some high school;standard
+25;male;bachelor's degree;free/reduced
+26;male;master's degree;free/reduced
+27;male;some college;standard
+28;female;bachelor's degree;standard
+29;male;high school;standard
+30;female;master's degree;standard
+31;female;some college;standard
+32;female;some college;standard
+33;female;master's degree;free/reduced
+34;male;some college;standard
+35;male;some college;standard
+36;male;associate's degree;standard
+37;female;associate's degree;standard
+38;female;some high school;free/reduced
+39;female;associate's degree;free/reduced
+40;male;associate's degree;free/reduced
+41;male;associate's degree;free/reduced
+42;female;associate's degree;standard
+43;female;associate's degree;standard
+44;male;some college;free/reduced
+45;female;associate's degree;free/reduced
+46;male;associate's degree;standard
+47;female;associate's degree;standard
+48;female;high school;standard
+49;female;associate's degree;free/reduced
+50;male;high school;standard
+51;male;some college;standard
+52;male;associate's degree;free/reduced
+53;male;some college;standard
+54;male;high school;standard
+55;female;some high school;free/reduced
+56;female;high school;free/reduced
+57;female;associate's degree;standard
+58;male;associate's degree;standard
+59;male;some college;standard
+60;female;some high school;free/reduced
+61;male;bachelor's degree;free/reduced
+62;male;some high school;free/reduced
+63;male;associate's degree;free/reduced
+64;female;associate's degree;standard
+65;female;some high school;standard
+66;male;some high school;standard
+67;male;some high school;free/reduced
+68;female;some college;standard
+69;male;associate's degree;free/reduced
+70;female;associate's degree;standard
+71;female;some college;free/reduced
+72;male;some college;standard
+73;female;associate's degree;free/reduced
+74;male;some high school;free/reduced
+75;male;some high school;standard
+76;male;associate's degree;free/reduced
+77;male;some high school;standard
+78;male;bachelor's degree;standard
+79;female;some high school;standard
+80;female;master's degree;standard
+81;female;associate's degree;standard
+82;male;high school;free/reduced
+83;male;some college;free/reduced
+84;male;associate's degree;standard
+85;male;high school;free/reduced
+86;female;some college;standard
+87;female;some college;free/reduced
+88;female;associate's degree;standard
+89;female;some college;standard
+90;female;some high school;standard
+91;female;bachelor's degree;standard
+92;male;high school;free/reduced
+93;male;high school;standard
+94;male;associate's degree;free/reduced
+95;female;some college;standard
+96;male;associate's degree;free/reduced
+97;male;some high school;standard
+98;female;some college;standard
+99;female;some college;free/reduced
+100;female;bachelor's degree;standard
+101;male;some college;standard
+102;male;bachelor's degree;standard
+103;female;associate's degree;standard
+104;male;high school;standard
+105;male;some college;standard
+106;female;some college;standard
+107;female;master's degree;standard
+108;male;associate's degree;standard
+109;female;associate's degree;free/reduced
+110;female;some high school;standard
+111;female;associate's degree;free/reduced
+112;male;high school;standard
+113;male;associate's degree;standard
+114;female;some college;standard
+115;female;bachelor's degree;standard
+116;male;high school;standard
+117;female;bachelor's degree;free/reduced
+118;female;bachelor's degree;standard
+119;female;some high school;standard
+120;female;some college;standard
+121;female;bachelor's degree;standard
+122;male;associate's degree;standard
+123;female;some college;standard
+124;male;high school;free/reduced
+125;male;some college;standard
+126;female;high school;standard
+127;male;some high school;standard
+128;male;some college;standard
+129;male;master's degree;standard
+130;female;bachelor's degree;standard
+131;male;master's degree;standard
+132;male;some high school;free/reduced
+133;male;some college;free/reduced
+134;female;some college;standard
+135;male;bachelor's degree;free/reduced
+136;male;bachelor's degree;standard
+137;male;some high school;standard
+138;male;high school;standard
+139;female;associate's degree;standard
+140;male;some college;standard
+141;female;some high school;standard
+142;female;some college;free/reduced
+143;female;some college;free/reduced
+144;male;high school;standard
+145;male;some college;standard
+146;female;some college;free/reduced
+147;male;some high school;standard
+148;male;associate's degree;free/reduced
+149;female;bachelor's degree;standard
+150;male;associate's degree;free/reduced
+151;male;some high school;standard
+152;male;bachelor's degree;standard
+153;female;associate's degree;standard
+154;male;bachelor's degree;standard
+155;male;some high school;standard
+156;female;some college;standard
+157;female;high school;free/reduced
+158;male;some college;free/reduced
+159;female;associate's degree;standard
+160;male;associate's degree;free/reduced
+161;male;associate's degree;free/reduced
+162;female;some college;free/reduced
+163;male;master's degree;free/reduced
+164;male;high school;standard
+165;female;master's degree;standard
+166;female;bachelor's degree;standard
+167;male;high school;free/reduced
+168;female;master's degree;free/reduced
+169;female;high school;standard
+170;female;some college;free/reduced
+171;male;high school;standard
+172;male;some high school;standard
+173;female;some college;standard
+174;female;associate's degree;standard
+175;female;bachelor's degree;free/reduced
+176;female;master's degree;standard
+177;female;high school;free/reduced
+178;female;associate's degree;standard
+179;female;master's degree;free/reduced
+180;female;some high school;standard
+181;male;master's degree;free/reduced
+182;female;some college;free/reduced
+183;female;high school;standard
+184;female;associate's degree;standard
+185;male;some high school;free/reduced
+186;male;associate's degree;free/reduced
+187;male;high school;standard
+188;male;some high school;standard
+189;male;some high school;free/reduced
+190;female;bachelor's degree;standard
+191;female;associate's degree;standard
+192;male;some college;standard
+193;female;some high school;standard
+194;male;some college;standard
+195;female;master's degree;standard
+196;male;associate's degree;standard
+197;male;some high school;free/reduced
+198;male;high school;free/reduced
+199;female;some college;free/reduced
+200;female;bachelor's degree;free/reduced
+201;female;associate's degree;standard
+202;female;some college;free/reduced
+203;male;associate's degree;standard
+204;female;associate's degree;standard
+205;male;some college;standard
+206;male;some high school;standard
+207;male;bachelor's degree;standard
+208;male;high school;standard
+209;female;some college;free/reduced
+210;female;some college;free/reduced
+211;male;some high school;free/reduced
+212;male;some college;free/reduced
+213;female;high school;free/reduced
+214;male;associate's degree;free/reduced
+215;male;high school;standard
+216;male;some high school;standard
+217;female;associate's degree;free/reduced
+218;female;high school;free/reduced
+219;male;high school;free/reduced
+220;male;some high school;standard
+221;female;high school;standard
+222;male;associate's degree;standard
+223;female;some high school;free/reduced
+224;male;some high school;standard
+225;female;associate's degree;standard
+226;female;master's degree;free/reduced
+227;female;some college;standard
+228;male;high school;standard
+229;male;some high school;free/reduced
+230;female;some college;standard
+231;male;some college;standard
+232;male;associate's degree;standard
+233;female;bachelor's degree;standard
+234;male;some high school;standard
+235;male;bachelor's degree;standard
+236;male;associate's degree;standard
+237;male;bachelor's degree;free/reduced
+238;female;some high school;standard
+239;male;some college;standard
+240;male;associate's degree;standard
+241;male;high school;free/reduced
+242;female;bachelor's degree;standard
+243;female;high school;standard
+244;male;some college;standard
+245;male;some high school;standard
+246;male;associate's degree;standard
+247;male;associate's degree;standard
+248;female;high school;standard
+249;female;high school;standard
+250;male;high school;standard
+251;male;some high school;standard
+252;female;some college;free/reduced
+253;female;some high school;standard
+254;male;master's degree;standard
+255;male;high school;standard
+256;female;some college;standard
+257;female;associate's degree;free/reduced
+258;male;associate's degree;standard
+259;female;some college;standard
+260;female;master's degree;free/reduced
+261;female;some high school;free/reduced
+262;male;some college;standard
+263;female;some high school;free/reduced
+264;female;high school;standard
+265;male;high school;standard
+266;male;some high school;free/reduced
+267;female;bachelor's degree;standard
+268;female;high school;standard
+269;female;associate's degree;standard
+270;female;some college;free/reduced
+271;male;bachelor's degree;standard
+272;male;some college;standard
+273;female;associate's degree;free/reduced
+274;female;some college;standard
+275;male;some college;standard
+276;male;bachelor's degree;standard
+277;female;some high school;standard
+278;female;high school;standard
+279;female;some high school;free/reduced
+280;male;bachelor's degree;free/reduced
+281;male;high school;standard
+282;male;high school;standard
+283;female;bachelor's degree;free/reduced
+284;female;some college;free/reduced
+285;female;some high school;standard
+286;male;associate's degree;standard
+287;male;associate's degree;standard
+288;female;some high school;standard
+289;male;bachelor's degree;free/reduced
+290;male;some high school;standard
+291;male;associate's degree;standard
+292;male;some high school;standard
+293;male;some high school;standard
+294;female;bachelor's degree;standard
+295;male;high school;free/reduced
+296;male;associate's degree;free/reduced
+297;male;some high school;standard
+298;male;associate's degree;standard
+299;male;high school;free/reduced
+300;male;associate's degree;free/reduced
+301;male;some college;free/reduced
+302;male;some high school;free/reduced
+303;female;associate's degree;standard
+304;male;associate's degree;standard
+305;female;associate's degree;standard
+306;male;some college;standard
+307;male;some college;standard
+308;male;some high school;standard
+309;female;associate's degree;free/reduced
+310;female;high school;free/reduced
+311;female;associate's degree;standard
+312;male;bachelor's degree;standard
+313;male;bachelor's degree;standard
+314;female;associate's degree;free/reduced
+315;female;bachelor's degree;standard
+316;male;high school;standard
+317;female;master's degree;standard
+318;male;associate's degree;standard
+319;male;bachelor's degree;standard
+320;female;associate's degree;free/reduced
+321;female;high school;free/reduced
+322;female;high school;standard
+323;female;some college;standard
+324;female;some high school;free/reduced
+325;female;high school;free/reduced
+326;female;some college;standard
+327;male;some college;standard
+328;male;some college;free/reduced
+329;male;associate's degree;standard
+330;female;some high school;standard
+331;male;high school;standard
+332;male;associate's degree;standard
+333;male;associate's degree;standard
+334;male;associate's degree;standard
+335;female;bachelor's degree;standard
+336;female;some college;free/reduced
+337;male;some high school;standard
+338;male;associate's degree;standard
+339;female;some high school;free/reduced
+340;female;some high school;free/reduced
+341;male;high school;free/reduced
+342;female;high school;standard
+343;female;high school;standard
+344;male;associate's degree;standard
+345;male;some college;standard
+346;female;high school;standard
+347;male;some college;standard
+348;female;bachelor's degree;standard
+349;male;high school;free/reduced
+350;male;associate's degree;standard
+351;female;bachelor's degree;standard
+352;male;some college;standard
+353;female;some college;standard
+354;female;associate's degree;standard
+355;female;some college;standard
+356;female;bachelor's degree;standard
+357;male;associate's degree;standard
+358;female;some college;free/reduced
+359;male;some college;free/reduced
+360;female;some college;standard
+361;female;high school;standard
+362;male;some high school;standard
+363;female;some college;standard
+364;female;some high school;free/reduced
+365;male;some college;standard
+366;male;bachelor's degree;free/reduced
+367;male;high school;standard
+368;male;bachelor's degree;free/reduced
+369;female;some high school;free/reduced
+370;female;some high school;standard
+371;male;some college;standard
+372;female;some college;free/reduced
+373;male;some high school;standard
+374;female;some college;standard
+375;female;bachelor's degree;standard
+376;male;associate's degree;free/reduced
+377;female;some high school;standard
+378;female;master's degree;free/reduced
+379;female;some high school;standard
+380;male;bachelor's degree;standard
+381;female;associate's degree;standard
+382;male;associate's degree;standard
+383;male;master's degree;free/reduced
+384;female;some high school;free/reduced
+385;female;some high school;free/reduced
+386;female;some college;standard
+387;female;bachelor's degree;standard
+388;female;associate's degree;free/reduced
+389;female;high school;standard
+390;male;master's degree;standard
+391;male;some high school;free/reduced
+392;female;some college;standard
+393;male;some college;standard
+394;male;associate's degree;standard
+395;female;some high school;standard
+396;male;high school;free/reduced
+397;female;high school;free/reduced
+398;female;associate's degree;standard
+399;male;some high school;standard
+400;male;some high school;standard
+401;female;some high school;standard
+402;male;some college;standard
+403;female;some college;free/reduced
+404;female;high school;standard
+405;female;high school;standard
+406;female;some high school;standard
+407;male;associate's degree;standard
+408;female;associate's degree;standard
+409;female;high school;free/reduced
+410;male;associate's degree;standard
+411;female;master's degree;standard
+412;male;some college;standard
+413;male;associate's degree;standard
+414;male;some high school;standard
+415;female;bachelor's degree;free/reduced
+416;male;high school;standard
+417;male;bachelor's degree;standard
+418;male;associate's degree;standard
+419;male;some college;standard
+420;male;high school;free/reduced
+421;female;associate's degree;free/reduced
+422;female;high school;standard
+423;female;master's degree;free/reduced
+424;female;some high school;standard
+425;male;some college;free/reduced
+426;female;some college;free/reduced
+427;male;bachelor's degree;standard
+428;male;some high school;free/reduced
+429;male;some high school;free/reduced
+430;male;some high school;free/reduced
+431;male;associate's degree;free/reduced
+432;female;high school;standard
+433;male;high school;standard
+434;female;some high school;free/reduced
+435;male;some high school;standard
+436;male;some college;free/reduced
+437;male;associate's degree;standard
+438;male;associate's degree;free/reduced
+439;male;high school;standard
+440;male;some high school;standard
+441;female;some college;standard
+442;female;high school;standard
+443;female;some high school;free/reduced
+444;female;associate's degree;standard
+445;male;some high school;free/reduced
+446;female;some high school;standard
+447;male;some college;free/reduced
+448;male;high school;standard
+449;male;high school;standard
+450;male;associate's degree;standard
+451;female;some college;free/reduced
+452;female;some college;standard
+453;female;associate's degree;free/reduced
+454;male;some college;free/reduced
+455;female;associate's degree;free/reduced
+456;male;bachelor's degree;free/reduced
+457;female;bachelor's degree;standard
+458;male;associate's degree;free/reduced
+459;female;bachelor's degree;standard
+460;male;high school;standard
+461;male;bachelor's degree;free/reduced
+462;male;some college;free/reduced
+463;female;some college;standard
+464;female;some college;free/reduced
+465;male;bachelor's degree;standard
+466;female;some college;standard
+467;female;associate's degree;free/reduced
+468;male;high school;free/reduced
+469;female;high school;free/reduced
+470;male;some college;standard
+471;female;associate's degree;standard
+472;female;high school;standard
+473;female;associate's degree;standard
+474;female;some high school;standard
+475;female;associate's degree;standard
+476;female;bachelor's degree;standard
+477;male;bachelor's degree;standard
+478;male;associate's degree;standard
+479;female;master's degree;standard
+480;male;associate's degree;standard
+481;male;high school;standard
+482;female;associate's degree;free/reduced
+483;male;some college;free/reduced
+484;male;high school;standard
+485;female;associate's degree;standard
+486;male;high school;standard
+487;male;some college;free/reduced
+488;female;associate's degree;free/reduced
+489;male;some high school;standard
+490;male;associate's degree;free/reduced
+491;female;associate's degree;free/reduced
+492;female;associate's degree;standard
+493;female;some college;standard
+494;female;bachelor's degree;standard
+495;female;high school;standard
+496;male;high school;standard
+497;female;some college;standard
+498;female;some college;free/reduced
+499;female;some high school;standard
+500;male;some college;standard
+501;female;master's degree;standard
+502;female;associate's degree;standard
+503;male;some college;free/reduced
+504;female;associate's degree;standard
+505;female;master's degree;free/reduced
+506;female;some high school;standard
+507;male;high school;standard
+508;male;bachelor's degree;free/reduced
+509;male;master's degree;standard
+510;female;bachelor's degree;standard
+511;male;some college;standard
+512;male;some high school;standard
+513;male;some high school;free/reduced
+514;female;some high school;standard
+515;female;master's degree;free/reduced
+516;female;some high school;standard
+517;female;some college;standard
+518;female;some college;standard
+519;female;some high school;standard
+520;female;high school;free/reduced
+521;male;some college;standard
+522;female;associate's degree;standard
+523;male;bachelor's degree;standard
+524;male;master's degree;free/reduced
+525;male;high school;standard
+526;male;some college;standard
+527;male;some high school;free/reduced
+528;female;high school;free/reduced
+529;female;bachelor's degree;free/reduced
+530;female;associate's degree;standard
+531;female;associate's degree;standard
+532;female;some high school;standard
+533;male;associate's degree;standard
+534;female;associate's degree;standard
+535;male;high school;standard
+536;female;bachelor's degree;free/reduced
+537;male;associate's degree;standard
+538;female;high school;standard
+539;male;bachelor's degree;standard
+540;male;associate's degree;standard
+541;male;high school;standard
+542;male;associate's degree;free/reduced
+543;female;associate's degree;standard
+544;female;associate's degree;standard
+545;female;master's degree;standard
+546;male;some high school;free/reduced
+547;female;some high school;standard
+548;male;high school;standard
+549;female;high school;free/reduced
+550;male;master's degree;standard
+551;male;some high school;free/reduced
+552;male;bachelor's degree;free/reduced
+553;female;associate's degree;standard
+554;male;some college;free/reduced
+555;male;associate's degree;standard
+556;female;some college;free/reduced
+557;female;associate's degree;standard
+558;male;master's degree;free/reduced
+559;female;associate's degree;free/reduced
+560;male;some high school;standard
+561;female;some college;standard
+562;female;some college;standard
+563;male;bachelor's degree;standard
+564;female;some college;free/reduced
+565;male;bachelor's degree;free/reduced
+566;male;associate's degree;standard
+567;female;bachelor's degree;free/reduced
+568;female;master's degree;free/reduced
+569;male;high school;free/reduced
+570;male;bachelor's degree;free/reduced
+571;male;some college;standard
+572;male;bachelor's degree;standard
+573;female;some college;standard
+574;female;high school;free/reduced
+575;female;high school;standard
+576;male;associate's degree;free/reduced
+577;male;some college;standard
+578;female;high school;standard
+579;female;some college;free/reduced
+580;female;master's degree;standard
+581;female;some high school;standard
+582;female;some high school;standard
+583;female;bachelor's degree;free/reduced
+584;female;associate's degree;standard
+585;female;some college;standard
+586;female;associate's degree;standard
+587;female;high school;standard
+588;female;bachelor's degree;free/reduced
+589;female;some college;standard
+590;female;some high school;standard
+591;male;some college;free/reduced
+592;male;some high school;standard
+593;male;bachelor's degree;standard
+594;female;high school;standard
+595;female;bachelor's degree;standard
+596;female;bachelor's degree;standard
+597;male;high school;free/reduced
+598;male;some high school;standard
+599;female;high school;standard
+600;female;some high school;standard
+601;female;master's degree;standard
+602;female;high school;standard
+603;female;some college;standard
+604;male;high school;free/reduced
+605;male;master's degree;free/reduced
+606;male;some high school;standard
+607;female;associate's degree;standard
+608;female;master's degree;free/reduced
+609;female;some college;standard
+610;female;associate's degree;standard
+611;male;some college;free/reduced
+612;female;some college;standard
+613;male;bachelor's degree;standard
+614;female;associate's degree;standard
+615;female;associate's degree;standard
+616;female;high school;standard
+617;female;bachelor's degree;standard
+618;male;bachelor's degree;standard
+619;male;master's degree;standard
+620;male;associate's degree;free/reduced
+621;female;high school;free/reduced
+622;male;bachelor's degree;free/reduced
+623;male;high school;free/reduced
+624;male;some college;standard
+625;female;bachelor's degree;free/reduced
+626;male;some college;standard
+627;male;associate's degree;free/reduced
+628;male;associate's degree;standard
+629;male;some college;free/reduced
+630;female;some high school;standard
+631;male;some college;standard
+632;male;high school;standard
+633;female;bachelor's degree;standard
+634;female;high school;standard
+635;male;some high school;standard
+636;male;high school;standard
+637;female;high school;free/reduced
+638;female;some high school;standard
+639;male;some college;standard
+640;female;associate's degree;standard
+641;male;high school;standard
+642;female;associate's degree;free/reduced
+643;female;some high school;free/reduced
+644;female;high school;standard
+645;male;high school;standard
+646;female;bachelor's degree;standard
+647;female;associate's degree;standard
+648;female;high school;free/reduced
+649;female;high school;standard
+650;female;some college;standard
+651;male;some high school;free/reduced
+652;female;high school;standard
+653;female;some college;standard
+654;female;associate's degree;standard
+655;female;some high school;standard
+656;female;some college;standard
+657;male;associate's degree;free/reduced
+658;male;some high school;standard
+659;female;associate's degree;free/reduced
+660;male;associate's degree;standard
+661;male;some college;free/reduced
+662;male;some high school;standard
+663;female;some college;free/reduced
+664;female;high school;standard
+665;male;associate's degree;standard
+666;female;some high school;free/reduced
+667;female;some college;free/reduced
+668;female;bachelor's degree;free/reduced
+669;male;some college;standard
+670;male;associate's degree;standard
+671;female;high school;free/reduced
+672;male;associate's degree;free/reduced
+673;female;some college;standard
+674;female;associate's degree;standard
+675;female;high school;standard
+676;female;some college;standard
+677;female;some college;standard
+678;female;some high school;standard
+679;male;associate's degree;free/reduced
+680;male;some college;free/reduced
+681;female;high school;standard
+682;male;high school;standard
+683;male;high school;standard
+684;female;some high school;free/reduced
+685;male;some college;standard
+686;female;master's degree;standard
+687;male;some college;standard
+688;male;associate's degree;free/reduced
+689;male;high school;free/reduced
+690;male;some college;free/reduced
+691;female;associate's degree;standard
+692;female;associate's degree;free/reduced
+693;female;bachelor's degree;free/reduced
+694;female;associate's degree;standard
+695;female;some high school;standard
+696;female;some college;free/reduced
+697;female;associate's degree;standard
+698;female;bachelor's degree;standard
+699;female;associate's degree;standard
+700;male;high school;free/reduced
+701;female;bachelor's degree;standard
+702;female;some high school;standard
+703;male;bachelor's degree;standard
+704;female;some college;standard
+705;female;some high school;free/reduced
+706;male;bachelor's degree;free/reduced
+707;male;high school;standard
+708;male;some college;standard
+709;male;high school;standard
+710;female;associate's degree;free/reduced
+711;male;some college;standard
+712;female;some high school;standard
+713;female;some college;standard
+714;male;master's degree;standard
+715;female;some high school;standard
+716;female;associate's degree;free/reduced
+717;male;associate's degree;standard
+718;female;associate's degree;standard
+719;female;high school;standard
+720;male;associate's degree;free/reduced
+721;female;some college;free/reduced
+722;male;some high school;free/reduced
+723;female;some high school;free/reduced
+724;male;high school;standard
+725;male;some college;standard
+726;male;some college;standard
+727;female;associate's degree;standard
+728;male;some high school;standard
+729;female;high school;free/reduced
+730;male;some college;standard
+731;female;associate's degree;free/reduced
+732;male;some high school;free/reduced
+733;female;some college;standard
+734;male;some high school;standard
+735;female;some college;free/reduced
+736;male;master's degree;standard
+737;male;associate's degree;standard
+738;female;some college;free/reduced
+739;male;associate's degree;standard
+740;male;high school;free/reduced
+741;male;bachelor's degree;standard
+742;female;associate's degree;free/reduced
+743;female;high school;standard
+744;female;associate's degree;standard
+745;male;some college;free/reduced
+746;male;associate's degree;standard
+747;male;high school;standard
+748;male;some college;standard
+749;female;bachelor's degree;free/reduced
+750;male;some college;standard
+751;male;some high school;standard
+752;male;some college;standard
+753;male;master's degree;free/reduced
+754;female;some high school;standard
+755;male;associate's degree;free/reduced
+756;female;associate's degree;standard
+757;male;some college;standard
+758;male;bachelor's degree;free/reduced
+759;female;some college;free/reduced
+760;male;some college;standard
+761;female;high school;free/reduced
+762;female;some high school;standard
+763;male;some high school;standard
+764;female;high school;standard
+765;male;some college;standard
+766;female;high school;standard
+767;female;high school;standard
+768;male;high school;standard
+769;female;some high school;standard
+770;male;some college;free/reduced
+771;male;high school;standard
+772;male;bachelor's degree;standard
+773;female;some high school;free/reduced
+774;female;bachelor's degree;free/reduced
+775;male;some college;standard
+776;female;some high school;free/reduced
+777;female;high school;standard
+778;female;some college;free/reduced
+779;female;some college;standard
+780;male;associate's degree;standard
+781;female;associate's degree;free/reduced
+782;female;master's degree;standard
+783;female;high school;free/reduced
+784;female;associate's degree;standard
+785;male;bachelor's degree;standard
+786;female;some high school;standard
+787;female;some high school;free/reduced
+788;female;some college;standard
+789;male;associate's degree;free/reduced
+790;female;master's degree;free/reduced
+791;female;high school;standard
+792;female;some college;free/reduced
+793;male;high school;free/reduced
+794;male;some high school;standard
+795;female;high school;standard
+796;female;associate's degree;free/reduced
+797;male;high school;standard
+798;female;associate's degree;free/reduced
+799;male;some college;standard
+800;female;associate's degree;standard
+801;male;some high school;standard
+802;male;some high school;standard
+803;female;associate's degree;standard
+804;female;some college;standard
+805;female;some college;standard
+806;male;some college;free/reduced
+807;female;some college;free/reduced
+808;female;high school;free/reduced
+809;male;high school;standard
+810;male;bachelor's degree;standard
+811;male;some high school;standard
+812;male;high school;free/reduced
+813;female;master's degree;standard
+814;male;some high school;standard
+815;female;high school;standard
+816;male;some high school;standard
+817;female;bachelor's degree;standard
+818;male;bachelor's degree;free/reduced
+819;female;high school;free/reduced
+820;female;some high school;standard
+821;female;some high school;standard
+822;female;bachelor's degree;free/reduced
+823;male;some college;free/reduced
+824;female;high school;free/reduced
+825;female;some high school;free/reduced
+826;male;high school;standard
+827;female;associate's degree;free/reduced
+828;female;some high school;standard
+829;female;some high school;free/reduced
+830;male;some high school;standard
+831;female;some college;free/reduced
+832;female;bachelor's degree;free/reduced
+833;male;bachelor's degree;standard
+834;female;high school;standard
+835;male;some college;standard
+836;female;high school;standard
+837;male;high school;standard
+838;female;high school;standard
+839;male;associate's degree;free/reduced
+840;female;associate's degree;standard
+841;female;high school;free/reduced
+842;male;some high school;standard
+843;female;high school;free/reduced
+844;male;some college;free/reduced
+845;female;some high school;free/reduced
+846;male;master's degree;standard
+847;male;master's degree;standard
+848;male;high school;standard
+849;female;high school;standard
+850;male;associate's degree;standard
+851;male;master's degree;standard
+852;female;high school;standard
+853;female;some college;standard
+854;male;some high school;standard
+855;male;some high school;standard
+856;female;bachelor's degree;standard
+857;male;some college;free/reduced
+858;female;bachelor's degree;standard
+859;male;high school;standard
+860;male;associate's degree;free/reduced
+861;female;associate's degree;standard
+862;female;master's degree;free/reduced
+863;male;bachelor's degree;free/reduced
+864;female;some college;standard
+865;male;associate's degree;standard
+866;male;some college;standard
+867;male;high school;free/reduced
+868;male;associate's degree;standard
+869;male;associate's degree;free/reduced
+870;male;associate's degree;free/reduced
+871;male;high school;standard
+872;female;some college;standard
+873;male;associate's degree;standard
+874;male;associate's degree;free/reduced
+875;female;bachelor's degree;free/reduced
+876;male;some college;free/reduced
+877;male;some college;standard
+878;male;some high school;standard
+879;female;some high school;standard
+880;female;associate's degree;standard
+881;male;bachelor's degree;standard
+882;female;bachelor's degree;standard
+883;female;high school;free/reduced
+884;male;bachelor's degree;free/reduced
+885;female;associate's degree;standard
+886;female;associate's degree;standard
+887;female;associate's degree;standard
+888;male;high school;free/reduced
+889;female;some college;free/reduced
+890;male;high school;free/reduced
+891;female;some college;standard
+892;female;associate's degree;standard
+893;female;master's degree;free/reduced
+894;male;some high school;standard
+895;female;associate's degree;standard
+896;female;some high school;free/reduced
+897;male;high school;free/reduced
+898;female;some high school;free/reduced
+899;male;associate's degree;standard
+900;female;some high school;standard
+901;male;master's degree;standard
+902;female;master's degree;standard
+903;female;high school;free/reduced
+904;female;bachelor's degree;free/reduced
+905;female;some high school;free/reduced
+906;male;some college;standard
+907;male;high school;standard
+908;female;some college;standard
+909;female;bachelor's degree;free/reduced
+910;male;bachelor's degree;standard
+911;male;bachelor's degree;free/reduced
+912;female;some college;standard
+913;female;bachelor's degree;standard
+914;female;bachelor's degree;free/reduced
+915;female;associate's degree;free/reduced
+916;female;some college;standard
+917;male;bachelor's degree;standard
+918;female;high school;standard
+919;female;associate's degree;standard
+920;male;some college;standard
+921;male;high school;free/reduced
+922;female;high school;free/reduced
+923;male;high school;standard
+924;female;associate's degree;free/reduced
+925;male;high school;free/reduced
+926;male;some high school;standard
+927;male;associate's degree;free/reduced
+928;female;high school;free/reduced
+929;male;associate's degree;free/reduced
+930;female;some high school;free/reduced
+931;male;some college;free/reduced
+932;male;some college;free/reduced
+933;male;associate's degree;free/reduced
+934;male;bachelor's degree;free/reduced
+935;male;associate's degree;standard
+936;male;some college;free/reduced
+937;male;associate's degree;standard
+938;female;high school;free/reduced
+939;male;some college;standard
+940;male;some high school;standard
+941;male;master's degree;free/reduced
+942;female;master's degree;standard
+943;male;high school;standard
+944;male;some high school;free/reduced
+945;female;high school;standard
+946;female;associate's degree;standard
+947;male;high school;standard
+948;female;some college;free/reduced
+949;male;some high school;free/reduced
+950;female;high school;free/reduced
+951;male;high school;standard
+952;female;some college;standard
+953;female;some high school;free/reduced
+954;male;high school;standard
+955;female;some college;standard
+956;male;associate's degree;standard
+957;male;some college;standard
+958;female;master's degree;standard
+959;female;high school;standard
+960;male;high school;standard
+961;female;some college;standard
+962;female;some high school;free/reduced
+963;female;associate's degree;standard
+964;female;some high school;free/reduced
+965;male;some college;standard
+966;female;some college;standard
+967;male;some high school;standard
+968;male;some college;standard
+969;female;associate's degree;standard
+970;female;bachelor's degree;standard
+971;female;bachelor's degree;standard
+972;male;some high school;standard
+973;female;high school;free/reduced
+974;female;some college;free/reduced
+975;female;some college;standard
+976;female;some college;standard
+977;male;some college;free/reduced
+978;male;associate's degree;standard
+979;male;high school;standard
+980;female;associate's degree;standard
+981;female;high school;free/reduced
+982;male;some high school;standard
+983;male;some high school;standard
+984;female;some college;standard
+985;female;some high school;standard
+986;male;high school;standard
+987;female;associate's degree;standard
+988;male;some high school;standard
+989;female;some high school;free/reduced
+990;female;some college;free/reduced
+991;male;high school;free/reduced
+992;female;some high school;standard
+993;female;associate's degree;free/reduced
+994;female;bachelor's degree;free/reduced
+995;male;high school;standard
+996;female;master's degree;standard
+997;male;high school;free/reduced
+998;female;high school;free/reduced
+999;female;some college;standard
+1000;female;some college;free/reduced
